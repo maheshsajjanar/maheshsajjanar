@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am Data Analyst aspirant.<br>Currently i am working as process executive with 4 years of experience.<br>
+
+👋 Hi, I’m Mahesh Sajjanar  
+💼 Process Executive with 4 years of experience in international non-voice operations  
+📊 Aspiring Data Analyst skilled in Excel, SQL, and Power BI  
+🚀 Passionate about transforming data into meaningful insights  
+📈 Currently building dashboards and analytics projects  
+🌱 Continuously learning data visualization and storytelling with Power BI  
+📫 Reach me at: maheshsajjanar01@gmail.com
+
 
 
 ## 🌐 Socials:
